@@ -6,10 +6,11 @@ public class mangu {
         double salary;
         String job_name;
         Scanner sc = new Scanner(System.in) ;
-
+        System.out.println("Enter the id:- ");
         id=sc.nextInt();
         System.out.print("Enter the your name :-\n");
-        name=sc.next();
+        String name=sc.nextLine();
+         sc.next();
         System.out.print("Enter the your Salary:-");
         salary=sc.nextDouble();
         System.out.print("enter the job name:-");
