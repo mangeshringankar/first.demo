@@ -7,11 +7,11 @@ public class cal {
     float a=sc.nextFloat();
     System.out.println("enter the num2:");
     float b= sc.nextFloat();
-        System.out.println("1 :- for addition:");
-        System.out.println("2:-for subtraction:");
-        System.out.println("3:- for the division:");
-        System.out.println("4:- for multiplication:");
-        System.out.println("5:- for reminder :");
+        System.out.println("1 :- for addition");
+        System.out.println("2:-for subtraction");
+        System.out.println("3:- for the division");
+        System.out.println("4:- for multiplication");
+        System.out.println("5:- for reminder ");
         System.out.println("6:- for exit");
     System.out.println("enter the option:");
     int opration=sc.nextInt();

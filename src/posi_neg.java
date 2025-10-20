@@ -7,7 +7,7 @@ public class posi_neg {
         Scanner sc = new Scanner (System.in);
         num = sc.nextInt();
         if(num>=0) {
-            System.out.println("the number id positive :-" + num);
+            System.out.println("the number is  positive :-" + num);
 
         }
         else
